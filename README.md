@@ -19,16 +19,18 @@ I am a scientist from Perth, Australia 🦘. Currently finishing my PhD with Ste
 
 contact: [Email 📮](mailto:nmg41@cam.ac.uk), [Twitter 🐦](https://twitter.com/N1ckGale), [LinkedIn 🧑‍💼](https://www.linkedin.com/in/nick-gale-1a9614182/)
 
-## Research
+## 📜 Research
  \#mathematics \#datascience \#neuroscience 
 
-I study theoretical aspects of neuroscience. My research has mainly been focused on the development of topographic maps. These are cool brain structures that pop up every and have a stereotypical relationship: neighbours map to neighbours. They are the brains continous maps, in some sense! I also like thinking about how these principles can be abstracted. 
+1. Theoretical and mathematical aspects of neuroscience
+2. Modelling development of topographic maps (esp. superior colliculus in mice)
+3. Optimisation and learning problems 
 
-## Current
-My current work is using these principles to further develop a Travelling Salesman Problem heuristic. Here it is solving a problem to draw the Mona Lisa with 100k nodes. 
+## 💻 Current
+My current work is using principles of topographic map development to further develop a Travelling Salesman Problem heuristic. Here it is solving a problem to draw the Mona Lisa with 100k nodes. 
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 [![Nicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-gale)](https://github.com/nick-gale/github-readme-stats)
 
 
