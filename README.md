@@ -1,7 +1,7 @@
 Julia | Python | Mathematica | Matlab | R | C++ | Git | Latex 
 
 
-### print(Hello, world! 🌎)
+### print("Hello, world! 🌎")
 
 <!--
 **Nick-Gale/Nick-Gale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
