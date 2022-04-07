@@ -15,7 +15,7 @@ Julia | Python | Mathematica | Matlab | R | C++ | Git | Latex
 - ⚡ Fun fact: ...
 -->
 
-I am a scientist from Perth, Australia 🦘. Currently finishing my PhD with Stephen Eglen at the University of Cambridge focusing on the theoretical aspects of topographic map development.
+I am a scientist from Perth, Australia 🦘. Currently finishing my PhD with Stephen Eglen (@sje30) at the University of Cambridge focusing on the theoretical aspects of topographic map development.
 
 contact: [Email 📮](mailto:nmg41@cam.ac.uk), [Twitter 🐦](https://twitter.com/N1ckGale), [LinkedIn 🧑‍💼](https://www.linkedin.com/in/nick-gale-1a9614182/)
 
