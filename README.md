@@ -29,6 +29,8 @@ contact: [Email 📮](mailto:nmg41@cam.ac.uk), [Twitter 🐦](https://twitter.co
 ## 💻 Current
 My current work is using principles of topographic map development to further develop a Travelling Salesman Problem heuristic. Here it is solving a problem to draw the Mona Lisa with 100k nodes. 
 
+![mona lisa](https://github.com/Nick-Gale/Nick-Gale/blob/main/278339577_726257395069982_7502780130908298464_n.gif)
+
 
 ## 📊 GitHub Stats
 [![Nicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-gale)](https://github.com/nick-gale/github-readme-stats)
